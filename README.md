@@ -1,3 +1,5 @@
+![la chat](/WP_20140208_19_08_33_Pro_circle.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/northernb39/northernb39.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
